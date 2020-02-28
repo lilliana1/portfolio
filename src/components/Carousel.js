@@ -23,7 +23,7 @@ class Carousel extends React.Component {
                 {
                     id: 0,
                     title: 'Password Generator',
-                    subTitle: 'JS',
+                    subTitle: 'Create a new personalized strong password. You get to choose if this new password contains numbers,special characters, lower and/or upper case. Not only that but you can choose from 8 to 128 characters. Build with JavaScript',
                     src: password_generator,
                     link1: 'https://lilliana1.github.io/password_generator/',
                     link2: 'https://github.com/lilliana1/password_generator',
@@ -33,7 +33,7 @@ class Carousel extends React.Component {
                 {
                     id: 1,
                     title: 'Code Quiz',
-                    subTitle: 'Test your JS skills but, you must do it fast because time is running. Every time you get a wrong answer, you will get penalize by reducing time. Good Luck!',
+                    subTitle: 'Test your JS skills but, you must do it fast because time is running. Every time you get a wrong answer, you will get penalize by reducing time. Build with JavaScript',
                     src: code_quiz_game,
                     link1: 'https://lilliana1.github.io/code_quiz/',
                     link2: 'https://github.com/lilliana1/code_quiz',
@@ -42,7 +42,7 @@ class Carousel extends React.Component {
                 {
                     id: 2,
                     title: 'Work Day Scheduler',
-                    subTitle: 'Bootstrap,JS,jQuery',
+                    subTitle: 'Daily Planner keeps you organized from 9:00am to 5:00pm. It gives you real time so you know what time it is! It highlights past,present & future hour. Best thing of this daily planner is that it you accidentally close the tab, you will still see what you gotta do!! Thanks Local Storage for that! Build with Bootstrap, JavaScript and jQuery',
                     src: daily_sc,
                     link1: 'https://lilliana1.github.io/day_planner/',
                     link2: 'https://github.com/lilliana1/day_planner',
@@ -51,7 +51,7 @@ class Carousel extends React.Component {
                 {
                     id: 3,
                     title: 'Weather Dashboard',
-                    subTitle: 'Bootstrap,JS,jQuery,APIs',
+                    subTitle: 'This simple Weather Dashboard will keep you inform. You just need to type the city and you will get temperature, winds, humidity and even UV! Cool, right? Wait, you also get to see 5 day forecast! Build with Bootstrap, JavaScript, jQuery and Open Weather Map API',
                     src: weather,
                     link1: 'https://lilliana1.github.io/weather_dashboard/',
                     link2: 'https://github.com/lilliana1/weather_dashboard',
@@ -60,16 +60,16 @@ class Carousel extends React.Component {
                 {
                     id: 4,
                     title: 'Make Me Laugh',
-                    subTitle: 'Materialize,JS,jQuery,APIs',
+                    subTitle: 'Make Me Laugh is a "time-waster" website, designed purely for fun. When users want to be entertained, they click the on the "big funny button". Live jokes, funny sounds, and gifs are generated, with random events enlivening the experience. Build with Materialize, JS, jQuery and 3 different APIs. Group Project.',
                     src: make_me_laugh,
                     link1: 'https://panamadan.github.io/Project1/',
-                    link2: '',
+                    link2: 'https://github.com/panamadan/Project1',
                     selected: false
                 },
                 {
                     id: 5,
                     title: 'Note Taker',
-                    subTitle: 'JS,Node.js,Express',
+                    subTitle: 'This application is for users that easily forget something important but at the same time like to keep track of things. You will be able to write, save & delete notes. Build with JS, Node.js, Express.js',
                     src: note_taker,
                     link1: 'https://murmuring-brook-32507.herokuapp.com/',
                     link2: 'https://github.com/lilliana1/noteTaker',
