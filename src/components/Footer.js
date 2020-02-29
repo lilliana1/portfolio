@@ -12,7 +12,9 @@ function Footer() {
             <Container fluid={true}>
                 <Row className="border-top justify-content-between p-3">
                     <Col className="p-0 d-flex justify-content-center" md={12}>
-                        <p>Lilliana Ramos</p>
+                        <p>Lilliana Ramos 2020 
+                            <i class="far fa-copyright"></i> 
+                        </p>
                     {/* <img src={logo}/>                     */}
                     </Col>
                 </Row>

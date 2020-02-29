@@ -9,9 +9,9 @@ import make_me_laugh from '../assets/images/make_me_laugh.png';
 import note_taker from '../assets/images/note_taker.png';
 import password_generator from '../assets/images/password_generator.png';
 import weather from '../assets/images/weather.png';
-import budget from '../assets/images/budget.png';
+// import budget from '../assets/images/budget.png';
 import cornermarket from '../assets/images/cornermarket.png';
-import workout from '../assets/images/workout.png';
+// import workout from '../assets/images/workout.png';
 import appetite from '../assets/images/appetite.png'
 import foodieweb from '../assets/images/foodieweb.png'
 
@@ -89,43 +89,43 @@ class Carousel extends React.Component {
                 {
                     id: 7,
                     title: 'Corner Market',
-                    subTitle: 'Application built for easily viewing large amounts of products from a grocer in a user friendly way. At its core this app takes a large dataset stored in MYSQL. Users have the ability to create their own user accounts and create shopping carts. Build with Foundation, JavaScript, Node.js, Express.js, mySQL, Sequelize. Group project.',
+                    subTitle: 'Application built for easily viewing large amounts of products from a grocer in a user friendly way. At its core this app takes a large dataset stored in MYSQL. Users have the ability to create their own user accounts and create shopping carts. Build with Foundation, JavaScript, Node.js, Express.js, mySQL, Sequelize. CRUD App. Group project.',
                     src: cornermarket,
                     link1: 'https://corner-market-app-2020.herokuapp.com/',
                     link2:'https://github.com/lilliana1/groceryTracker',
                     selected: false
                 },
+                // {
+                //     id: 8,
+                //     title: 'Workout Tracker',
+                //     subTitle: 'Bootstrap,JS,Node.js,Express,MongoDB,Moongoose',
+                //     src: workout,
+                //     link1: 'https://fitness-tracker-app-2020.herokuapp.com/',
+                //     link2:'https://github.com/lilliana1/fitnessTracker',
+                //     selected: false
+                // },
+                // {
+                //     id: 8,
+                //     title: 'Budget Tracker',
+                //     subTitle: 'BOOTSTRAP,JS,NODE.JS,EXPRESS,MONGOOSE',
+                //     src: budget,
+                //     link1: 'https://budget-tracker-app-2020.herokuapp.com/',
+                //     link2: 'https://github.com/lilliana1/budgetTracker',
+                //     selected: false
+                // },
                 {
                     id: 8,
-                    title: 'Workout Tracker',
-                    subTitle: 'Bootstrap,JS,Node.js,Express,MongoDB,Moongoose',
-                    src: workout,
-                    link1: 'https://fitness-tracker-app-2020.herokuapp.com/',
-                    link2:'https://github.com/lilliana1/fitnessTracker',
+                    title: 'Appetite',
+                    subTitle: 'Appetite is an real-time restaurant finder application. Is built for searching places to eat that are open at the time you are searching. You will be able to view and explore restaurants, view and post reviews and rating. Full MERN App.',
+                    src: appetite,
+                    link1: 'https://appetite-2020.herokuapp.com/',
+                    link2:'https://github.com/lilliana1/appetite',
                     selected: false
                 },
                 {
                     id: 9,
-                    title: 'Budget Tracker',
-                    subTitle: 'BOOTSTRAP,JS,NODE.JS,EXPRESS,MONGOOSE',
-                    src: budget,
-                    link1: 'https://budget-tracker-app-2020.herokuapp.com/',
-                    link2: 'https://github.com/lilliana1/budgetTracker',
-                    selected: false
-                },
-                {
-                    id: 10,
-                    title: 'Appetite',
-                    subTitle: '',
-                    src: appetite,
-                    link1: '',
-                    link2:'',
-                    selected: false
-                },
-                {
-                    id: 11,
                     title: 'Foodie',
-                    subTitle: 'Foodie is a simple web app to be use in Puerto Rico. 2 - 1 app that helps you divide your bill into even or separate, not only that but it also has a random food picker. You choose what type of food you would like to eat and it will choose for you! Remember is only meant to be use in Puerto Rico.',
+                    subTitle: 'Foodie is a simple web app to be use in Puerto Rico. 2 - 1 app that helps you divide your bill into even or separate, not only that but it also has a random food picker. You choose what type of food you would like to eat and it will choose for you! Remember is only meant to be use in Puerto Rico. Build with JavaScript',
                     src: foodieweb,
                     link1: 'https://lilliana1.github.io/foodie-app/',
                     link2:'https://github.com/lilliana1/foodie-app',
