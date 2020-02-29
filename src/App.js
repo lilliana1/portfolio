@@ -20,7 +20,7 @@ class App extends Component {
         { title: 'Contact', path: '/Contact'},
       ],
       home: {
-        title: 'Full Stack Web Developer & Information Technology',
+        title: 'Full Stack Web Developer',
         subTitle: 'Portfolio'
       },
       about: {
