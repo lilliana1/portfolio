@@ -8,9 +8,25 @@
   width: 400px;
 }
 
+.fa-linkedin {
+  color: #0e76a8;
+  cursor: pointer;
+}
+.fa-github {
+  color: black;
+
+}
+.fa-envelope-open-text {
+  color: #DB4437;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+a {
+  padding: 20px;
+  margin: 6em;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
