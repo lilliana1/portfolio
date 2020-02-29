@@ -15,18 +15,7 @@ function About(props) {
             Born and raised in the beautiful Island of Puerto Rico. I currently live in Orlando, FL. I enjoy anything that has to do meeting people from around the world. Besides meeting people, I enjoy Spanish Cinema, traveling, roadtrips, exploring my island and trying new places to eat!
             </p>
             
-            <div>
-            <a href="https://www.linkedin.com/in/lillianaramos/" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-linkedin fa-2x"></i>
-            </a>
 
-            <a href="https://github.com/lilliana1" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-github fa-2x"></i>
-            </a>
-            <a href="mailto:lilliana.cramos@gmail.com" target="_blank" rel="noopener noreferrer">
-                <i class="fas fa-envelope-open-text fa-lg"> Email </i>
-            </a>
-            </div>
 
             
             

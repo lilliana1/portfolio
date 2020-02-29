@@ -12,8 +12,21 @@ function Footer() {
             <Container fluid={true}>
                 <Row className="border-top justify-content-between p-3">
                     <Col className="p-0 d-flex justify-content-center" md={12}>
-                        <p>Lilliana Ramos 2020 <i class="far fa-copyright fa-xs"></i> 
-                        </p>
+                        
+                            <a className="icon" href="https://www.linkedin.com/in/lillianaramos/" target="_blank" rel="noopener noreferrer">
+                                <i class="fab fa-linkedin fa-2x"></i>
+                            </a>
+
+                            <a className="icon" href="https://github.com/lilliana1" target="_blank" rel="noopener noreferrer">
+                                <i class="fab fa-github fa-2x"></i>
+                            </a>
+                            <a className="icon" href="mailto:lilliana.cramos@gmail.com" target="_blank" rel="noopener noreferrer">
+                                <i class="fas fa-envelope-open-text fa-2x"></i>
+                            </a>
+                        
+                        {/* <p>
+                            Lilliana Ramos 2020 <i class="far fa-copyright fa-xs"></i> 
+                        </p> */}
                     {/* <img src={logo}/>                     */}
                     </Col>
                 </Row>

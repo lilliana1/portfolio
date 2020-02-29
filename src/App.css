@@ -23,9 +23,9 @@
   height: 40vmin;
   pointer-events: none;
 }
-a {
+a, icon {
   padding: 20px;
-  margin: 6em;
+    
 
 }
 
