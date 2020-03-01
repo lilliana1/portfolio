@@ -12,7 +12,7 @@ function About(props) {
             </p>
 
             <p>
-            Born and raised in the beautiful Island of Puerto Rico. I currently live in Orlando, FL. I enjoy anything that has to do meeting people from around the world. Besides meeting people, I enjoy Spanish Cinema, traveling, roadtrips, exploring my island and trying new places to eat!
+            Born and raised in the beautiful Island of Puerto Rico. I currently live in Orlando, FL. I enjoy anything that has to do meeting people from around the world. Besides meeting people, I enjoy Spanish Cinema, traveling, roadtrips, exploring my island and trying new places to eat. 
             </p>
 
             
