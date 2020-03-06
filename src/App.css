@@ -7,7 +7,7 @@
   text-align: center;
 }
 #paragraphSubTitle {
-  color: red;
+  color: black;
 }
 .divSubTitle {
   width: 400px;
@@ -24,6 +24,7 @@
 .fa-envelope-open-text {
   color: #DB4437;
 }
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

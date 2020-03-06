@@ -12,7 +12,6 @@ function Footer() {
             <Container fluid={true}>
                 <Row className="border-top justify-content-between p-3">
                     <Col className="p-0 d-flex justify-content-center" md={12}>
-                        
                             <a className="icon" href="https://www.linkedin.com/in/lillianaramos/" target="_blank" rel="noopener noreferrer">
                                 <i class="fab fa-linkedin fa-2x"></i>
                             </a>
