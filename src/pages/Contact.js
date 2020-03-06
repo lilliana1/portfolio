@@ -4,9 +4,7 @@ import Content from '../components/Content';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button'
 import Axios from 'axios'
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col'
+
 
 class Contact extends React.Component {
 
@@ -65,14 +63,18 @@ class Contact extends React.Component {
         return (
             <div>
                 <Head title={this.props.title} />
-                <Container fluid={true}>
-                <Row>
-                    <Col className="p-0 d-flex justify-content-center" md={12}>
-                        <p><i class="fas fa-envelope-open-text fa-med"></i> lilliana.cramos@gmail.com</p>
-                    </Col>
+                <Content fluid={true}>
+                        <p>
+                            
+                        Need a passionate, dedicated web developer?
+                        Don't be afraid to contact me! 
+                        You can either email me at <i class="fas fa-envelope-open-text fa-sm"></i> lilliana.cramos@gmail.com or complete this form.
+                            
+                        </p>
+                        <br />
+                        <br />
 
-                </Row>
-            </Container>
+                </Content>
                 <Content>
                     <Form onSubmit={this.handleSubmit}>
                         <Form.Group>
