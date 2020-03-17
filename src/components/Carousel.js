@@ -12,8 +12,9 @@ import weather from '../assets/images/weather.png';
 // import budget from '../assets/images/budget.png';
 import cornermarket from '../assets/images/cornermarket.png';
 // import workout from '../assets/images/workout.png';
-import appetite from '../assets/images/appetite.png'
-import foodieweb from '../assets/images/foodieweb.png'
+import appetite from '../assets/images/appetite.png';
+import foodieweb from '../assets/images/foodieweb.png';
+import piano from '../assets/images/piano.png'
 
 
 class Carousel extends React.Component {
@@ -130,8 +131,16 @@ class Carousel extends React.Component {
                     link1: 'https://lilliana1.github.io/foodie-app/',
                     link2:'https://github.com/lilliana1/foodie-app',
                     selected: false
-                }
-                
+                }, 
+                {
+                    id: 10,
+                    title: 'Digital Piano',
+                    subTitle: 'Digital Piano is a simple JavaScript piano which can be played using the mouse or keyboard. Built with JavaScript',
+                    src: piano,
+                    link1: 'https://lilliana1.github.io/digital-piano/',
+                    link2:'https://github.com/lilliana1/digital-piano',
+                    selected: false
+                }, 
             ]
         }
 
