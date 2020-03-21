@@ -135,7 +135,7 @@ class Carousel extends React.Component {
                 {
                     id: 10,
                     title: 'Digital Piano',
-                    subTitle: 'Digital Piano is a simple JavaScript piano which can be played using the mouse or keyboard. Built with JavaScript',
+                    subTitle: ' In Process. Digital Piano is a simple JavaScript piano which can be played using the mouse or keyboard. Eventually you will be able to record songs. Built with JavaScript',
                     src: piano,
                     link1: 'https://lilliana1.github.io/digital-piano/',
                     link2:'https://github.com/lilliana1/digital-piano',
