@@ -14,7 +14,7 @@ import cornermarket from '../assets/images/cornermarket.png';
 // import workout from '../assets/images/workout.png';
 import appetite from '../assets/images/appetite.png';
 import foodieweb from '../assets/images/foodieweb.png';
-import piano from '../assets/images/piano.png'
+// import piano from '../assets/images/piano.png'
 
 
 class Carousel extends React.Component {
